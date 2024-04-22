@@ -27,7 +27,7 @@ $app->withFacades();
 
 $app->withEloquent();
 
-$app->configure('services'); //FIRST ERROR
+$app->configure('services'); 
 
 /*
 |--------------------------------------------------------------------------
